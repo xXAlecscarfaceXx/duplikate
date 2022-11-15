@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
