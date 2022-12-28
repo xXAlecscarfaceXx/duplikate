@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
