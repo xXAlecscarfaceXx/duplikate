@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
