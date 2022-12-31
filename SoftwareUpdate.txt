@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
