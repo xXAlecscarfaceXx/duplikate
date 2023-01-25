@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix OpenVINO links (#7930)
