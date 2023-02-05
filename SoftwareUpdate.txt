@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
