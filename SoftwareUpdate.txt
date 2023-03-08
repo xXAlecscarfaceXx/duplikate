@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add YOLOv8 LibTorch C++ inference example (#7090)
