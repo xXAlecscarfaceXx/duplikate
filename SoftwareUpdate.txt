@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
