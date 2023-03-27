@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
