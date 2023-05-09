@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update Twitter icon in Docs (#7711)
