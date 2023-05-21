@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
