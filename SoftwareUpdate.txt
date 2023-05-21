@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Compare plt.get_backend() in lowercase (#8409)
