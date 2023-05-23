@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
