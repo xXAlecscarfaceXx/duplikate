@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix Yolo 8.0.206 scale bug (#7821)
