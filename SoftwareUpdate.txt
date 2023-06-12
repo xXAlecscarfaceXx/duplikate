@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Updated SQL Query Plot Code (#8120)
