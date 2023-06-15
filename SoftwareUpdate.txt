@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update CITATION.cff with cffinit corrections (#8658)
