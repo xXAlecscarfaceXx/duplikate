@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add estimate_speed(region_color) parameter (#8285)
