@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
