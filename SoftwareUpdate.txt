@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
