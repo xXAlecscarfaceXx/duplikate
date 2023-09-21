@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.0.229 add model.embed() method (#7098)
