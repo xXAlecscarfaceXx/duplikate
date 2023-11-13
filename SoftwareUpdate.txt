@@ -1,1 +1,1 @@
-add yolov10
+Add OBB benchmarks to CI (#7777)
