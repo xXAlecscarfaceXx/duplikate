@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
