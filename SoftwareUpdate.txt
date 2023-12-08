@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
