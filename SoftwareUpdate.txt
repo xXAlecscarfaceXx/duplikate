@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
