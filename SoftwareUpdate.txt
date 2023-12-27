@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Improve Coral Edge TPU guide (#8160)
