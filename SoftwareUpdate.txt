@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Clarify triton server boolean value (#8532)
