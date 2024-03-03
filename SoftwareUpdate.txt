@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add visuals in guides/distance-calculation.md (#7876)
