@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+New test for labels and crops (#8861)
