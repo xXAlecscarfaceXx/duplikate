@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update Colab notebook for YOLOv8.1 (#8660)
