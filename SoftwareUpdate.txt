@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
