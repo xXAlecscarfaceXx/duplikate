@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
