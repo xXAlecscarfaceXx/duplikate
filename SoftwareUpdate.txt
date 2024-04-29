@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
